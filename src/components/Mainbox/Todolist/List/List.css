@@ -1,0 +1,51 @@
+
+  
+  .list h3 {
+    margin: 0;
+    font-size: 16px;
+    color: rgb(70, 31, 50);
+    font-weight: 100;
+    font-family:'Poppins';
+    align-items: left;
+    display: flex;
+     flex-direction: column;
+    justify-content:left;
+    padding: 10px 15px;
+
+  }
+
+  .list {
+    width:45rem;
+    border-radius:0.3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content:left;
+    align-items:left;
+    background-color: #feecf2;
+    box-shadow: 2px 3px rgb(241, 210, 225);
+  
+}
+
+
+.tool_icons{
+  color: rgb(61, 3, 38);
+}
+
+.elist_icon{
+
+  margin-left: 0.5rem ;
+
+}
+
+
+.dlist_icon{
+
+  margin-left:0.7rem ;
+
+}
+
+.rlist_icon{
+  margin-left: 0.5rem ;
+
+}
+
